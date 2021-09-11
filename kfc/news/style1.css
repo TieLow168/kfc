@@ -1,0 +1,15 @@
+.news{
+    background-color: grey;
+}
+
+.NEWS{
+    background-color: white;
+    font-size: 20px;
+    width: 60%;
+}
+
+.NEWS h2{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
